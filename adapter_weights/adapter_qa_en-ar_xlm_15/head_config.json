@@ -1,0 +1,14 @@
+{
+  "config": null,
+  "hidden_size": 768,
+  "label2id": {
+    "LABEL_0": 0,
+    "LABEL_1": 1
+  },
+  "model_class": "XLMRobertaForQuestionAnswering",
+  "model_name": "xlm-roberta-base",
+  "model_type": "xlm-roberta",
+  "name": null,
+  "num_labels": 2,
+  "version": "3.1.0a0"
+}
